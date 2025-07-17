@@ -5,8 +5,10 @@ This project is a multi-purpose Discord bot developed using Python and the `disc
 
 ## ✨ Features
 
-  - **Weather Forecast:** Fetches real-time weather data for a specified location from [WeatherAPI](https://www.weatherapi.com/) and presents it as a rich embed message '!hava <city>'
-  - **Latest News:** Lists the top 5 latest news articles from various categories like general, sports, and technology using [NewsAPI](https://newsapi.org/) '!haber <category>'
+  - **Weather Forecast:** Fetches real-time weather data for a specified location from [WeatherAPI](https://www.weatherapi.com/) and presents it as a rich embed message
+  - '!hava city'
+  - **Latest News:** Lists the top 5 latest news articles from various categories like general, sports, and technology using [NewsAPI](https://newsapi.org/)
+  - '!haber category'
   - **Fun Commands:**
       - `!yazitura`: Flips a coin.
       - `!zar`: Rolls a random 1-6 sided die.
